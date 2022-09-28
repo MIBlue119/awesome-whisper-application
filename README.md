@@ -7,6 +7,10 @@ A repo to record some intersting application based on open AI's  ASR package whi
 - Provide multi-tasking(language detection/voice activity detection) token format 
 - Process a speech chunk in 30 seconds 
 
+### Experiments
+
+1. [yt_urls_captioner](./yt_urls_captioner/README.md): a basic scripts to dowmload url's audio with [yt-dlp](https://github.com/yt-dlp/yt-dlp) and transcribe with whisper 
+
 ### Related Application
 - [openai-whisper-live-transcribe](https://huggingface.co/spaces/Amrrs/openai-whisper-live-transcribe): a basic demo to record speech and transcribe with whisper
 
