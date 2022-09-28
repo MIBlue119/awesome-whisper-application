@@ -14,3 +14,4 @@ A repo to record some intersting application based on open AI's  ASR package whi
 
 - [Video_Killed_The_Radio_Star_Defusion](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb): get one song's lyric by whisper and use the text as prompt to run stabel diffuision model to generate multiple images and combine them to a video.
 
+- [Voice Activated Netflix Shows Semantic Search](https://huggingface.co/spaces/nickmuchi/Netflix-Semantic-Search-Whisperer): combine whisper and sentence transformer [all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) to generate embeddings to make a recommend netfilx search
